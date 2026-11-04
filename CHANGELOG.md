@@ -4,6 +4,12 @@ All notable changes to rules_autoconf. The format is loosely
 [Keep a Changelog](https://keepachangelog.com/) — version headers
 mirror the published bazel-registry entries.
 
+## 0.1.1 — refresh Bazel dependencies
+
+- Update platforms to 1.0.0, bazel_skylib to 1.8.2, rules_cc to 0.2.17,
+  rules_python to 1.7.0, and the development rules_shell dependency to 0.6.1.
+
+
 ## 0.1.0 — initial release
 
 - Initial scaffold of Bazel-native autoconf replacement: probes run as
